@@ -1,0 +1,70 @@
+{
+    "@python": 2,
+    "bold_folder_labels": true,
+    "caret_extra_bottom": 2,
+    "caret_extra_top": 2,
+    "caret_style": "phase",
+    "color_scheme": "Packages/User/SublimeLinter/Monokai (Flake8Lint) (SL).tmTheme",
+    "debug": true,
+    "ensure_newline_at_eof_on_save": true,
+    "file_exclude_patterns":
+    [
+        "*.pyc",
+        ".pylintrc",
+        "celerybeat.pid",
+        "dev.log*",
+        ".DS_Store",
+        "syslog",
+        ".sublime-project",
+        "*.sublime-workspace"
+    ],
+    "folder_exclude_patterns":
+    [
+        "*.ipython",
+        ".git",
+        "_static",
+        "__pycache__"
+    ],
+    "font_size": 15,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "linters":
+    {
+        "flake8":
+        {
+            "args":
+            [
+                "--ignore=E501,E127,E128,W191"
+            ],
+            "executable": "/Users/crussellwalker/.virtualenvs/XXX/bin/flake8",
+            "paths":
+            [
+                "/Users/crussellwalker/.virtualenvs/XXX",
+                "/Users/crussellwalker/Envs/XXX"
+            ],
+            "python": 2
+        }
+    },
+    "paths":
+    {
+        "osx": "/Users/crussellwalker/.virtualenvs/XXX/bin"
+    },
+    "rulers":
+    [
+        80
+    ],
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": false
+}
