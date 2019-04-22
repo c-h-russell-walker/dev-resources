@@ -1,0 +1,13 @@
+[alias]
+        co = checkout
+        br = branch
+        st = status
+        di = diff
+        dc = diff --cached
+        pom = push origin master
+        pp = pull --prune
+[user]
+        name = Chris Russell-Walker
+        email = c.russell.walker@gmail.com
+[help]
+        autocorrect = 1
