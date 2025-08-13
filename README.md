@@ -15,21 +15,33 @@ postman
 
 sequelpro
 
+mongodb compass
+
 spotify
 
+duckduckgo
+
 sublime
+
+pycharm
+
+vs code
 
 docker
 
 flux
+
+### Aliases
+
+aliases (to do - document)
+
+git aliases (to do - document)
 
 ### Programs:
 
 nvm
 
 homebrew
-
-vuecli
 
 
 ### Misc:
