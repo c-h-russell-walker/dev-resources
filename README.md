@@ -11,6 +11,8 @@ xCode
 
 postman
 
+iterm2 (TODO: document way to port over profiles)
+
 [clipy](https://github.com/Clipy/Clipy)
 
 sequelpro
@@ -43,6 +45,7 @@ nvm
 
 homebrew
 
+uv
 
 ### Misc:
 
