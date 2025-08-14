@@ -24,10 +24,12 @@ spotify
 duckduckgo
 
 sublime
+(installed packages & settings - also .git/info/exclude updates for sublime specific files)
 
 pycharm
 
 vs code
+(installed packages & settings - also .git/info/exclude updates for VSCode specific files)
 
 docker
 
@@ -41,7 +43,15 @@ git aliases (to do - document)
 
 ### Programs:
 
+pipx
+
+pyenv
+
+poetry
+
 nvm
+
+yarn
 
 homebrew
 
