@@ -57,6 +57,8 @@ homebrew
 
 uv
 
+[go-task](https://taskfile.dev/docs/installation)
+
 ### Misc:
 
 Mac: System Preferences > Accessibility > Display -> Turn off shake mouse pointer to locate
